@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This repository contains a collection of open-source equipment designs and building systems for **Non-Autoclaved Aerated Concrete (NAAC)**, also known as cellular concrete, or "aircrete". In this context, "low-rate" refers to production volumes suitable for small construction crews constructing or repairing partes of a single house.
+This repository contains a collection of open-source equipment designs to produce **Non-Autoclaved Aerated Concrete (NAAC)**, also known as cellular concrete, or "aircrete". https://www.designingbuildings.co.uk/wiki/Aircrete In this context, "low-rate" refers to production volumes suitable for small construction crews constructing or repairing parts of a single home.
 
 The primary focus is on developing modular, portable, and low-volume mixing and pumping equipment. The designs are ideal for "dry bag" mixing operations. To clarify, a "dry bag" mixer performs two critical steps in NAAC production: mixing a Portland cement slurry, and mixing stable foam into that slurry to create NAAC material. This equipment should be robust enough for **rental fleets**. These designs are intended for community-driven development and collaboration.
+
+It is the designer's belief that NAAC is an ideal building material that has been held back by a single barrier to entry: the mixing equipment. Aircrete mixing equipment starts at $750 for a "hand drill mixing system" which is labor intensive. There seems to be no middle ground as the next-cheapest option costs more than $50,000. The UAM "Tin Can" version BOM is estimated to be less than $5,000. The two key design features that allow this is the use of 3mm (10 guage) plate and 1/8" tubing in place of 5mm and 1/4" steel and tubing. The designer proved with the ReCirC design that this lighter material is suitable for mixing an end product with a density of 0.6-0.8 (relative to H2O). Reinforced cement concrete, for reference exhibits a 2.4 density. 
 
 ---
 
@@ -12,23 +14,27 @@ The primary focus is on developing modular, portable, and low-volume mixing and 
 
 The following designs are available for use, modification, and further development. They are listed in order of development priority.
 
-### 1. "Half Pipe" Ribbon Mixer
+### 1. "Tin Can" Ribbon Mixer and integrated recirculating and transfer pump. 
 
 A modular and lightweight cellular concrete mixer designed for scalability and ease of use.
 
 * **Key Features:**
-    * **Dual Ribbon Auger Mixing System:** Features inner and outer ribbon augers rotating in opposite directions (approx. 60 RPM) to ensure thorough and rapid homogenization of the material.
-    * **Clean Mixing Chamber:** The outer auger is equipped with rubber wipers on its flights to keep the mixer walls clean and prevent material buildup.
+    * **Ribbon Auger Mixing System:** Features songle ribbon auger (rotating approx. 60 RPM) to ensure thorough and rapid homogenization of the material. The positive recirculating pump assists in mixing effectively lowering the demand on the auger ribbons.
+    * **Integrated Solid Impeller Recirculating and Transfer Pump** A "low shear" transfer pump is needed to lift the fully mixed NAAC 4M. That's the expected height of a single story wall forms. If NAAC is required to be pumped to a second story the machine should be set up there. 
+    * **Clean Mixing Chamber:** The outer auger flight is equipped with rubber wipers on its flights to keep the mixer walls clean and prevent material buildup.
     * **Scalable Volume:** The mixing capacity can be easily scaled by adjusting the length of the mixer's final dimensions.
-    * **Adaptable Power:** Can be adapted to various power transmission systems, with a hydraulic setup recommended for its versatility in powering auxiliary equipment.
-
-### 2. "RecirC" Mixer
+    * **Adaptable Power:** Can be adapted to various power transmission systems, with a hydraulic setup recommended for its versatility in powering auxiliary equipment and suitability for low RPM operation. 
+  * **Portable Design:** Engineered for on-site portability and ease of use. Quick assembly and disassembly allows this machine to be loaded and unloaded out of the back of a standard pickup truck with no overhead lifting gear or a forklift. As such it doesn't need to be traillered. This level of portability as it lowers cost and increases access.
+ 
+* **Recommended Modifications** This design can be easily modified to save costs in two ways: 1.Upper mixer shell can be fabricated as straight sides rather than a curve. This might result in a decrease in mixing effeciency as the can shape forces the material against the auger flights. 2. Transfer pump can be eliminated. This limits the machine's practicality in almost any operational environment but saves cost on the parts required to build the pump. In a small blockmaking setting transfer pumps seem to be seldom used so this might prove to be popular. 
+ 
+### 2. "RecirC" Mixer (Experimental)
 
 A modular and portable cellular concrete mixer constructed from 10-gauge steel plate and 1/8" angle iron.
 
 * **Key Features:**
     * **Integrated Material Lift:** Eliminates the need for a separate transfer pump to move the concrete into wall forms, simplifying the on-site workflow.
-    * **Low-Speed Operation:** Operates at approximately 30 RPM, an ideal speed for delicate cellular concrete mixtures.
+    * **Low-Speed Operation:** Operates at approximately 30-60 RPM, an ideal speed for delicate cellular concrete mixtures.
     * **Portable Design:** Engineered for on-site portability and ease of use.
 
 ### 3. "Cloud Inhaler" Dust Reducer
