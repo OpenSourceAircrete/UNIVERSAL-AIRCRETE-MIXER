@@ -8,6 +8,8 @@ The primary focus is on developing modular, portable, and low-volume mixing and 
 
 It is the designer's belief that NAAC is an ideal building material that has been held back by a single barrier to entry: the mixing equipment. Aircrete mixing equipment starts at $750 for a "hand drill mixing system" which is labor intensive. There seems to be no middle ground as the next-cheapest option costs more than $50,000. The UAM "Tin Can" version BOM is estimated to be less than $5,000. The two key design features that allow this is the use of 3mm (10 guage) plate and 1/8" tubing in place of 5mm and 1/4" steel and tubing. The designer proved with the ReCirC design that this lighter material is suitable for mixing an end product with a density of 0.6-0.8 (relative to H2O). Reinforced cement concrete, for reference exhibits a 2.4 density. 
 
+Designer's note on the challenges this machine faces: There are three crucial processes a machine like this performs. First it needs to mix a Portland cement slurry. Then it needs to mix in stable foam to produce the NAAC material. The it needs to transfer the NAAC material out of the machine and over a wall form. The challenge is this: the first evolution requires "shear force" to properly mix the slurry and hydrate the Portland cement properly. The second and third evolutions must avoid shear force, instead relying on laminar flow to avoid damaging the stable foam. The use of the transfer pump plays a crucial role in this. Manipulating the 3" "recirculation and discharge" system ball valves to create backpressure should help to shear the slurry. Once the stable foam is startign to be added the operator will upen the valves wide and eliminate the shear. 
+
 ---
 
 ## Equipment Designs
