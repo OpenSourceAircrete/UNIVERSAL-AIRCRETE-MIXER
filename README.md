@@ -1,10 +1,10 @@
-# Open Source Low-Rate NAAC Equipment
+# Open Source Low-Rate Non Autoclaved Aerated Concrete (NAAC) production Equipment
 
 ## Project Overview
 
-This repository contains a collection of open-source equipment designs and building systems for **Low-Rate Non-Autoclaved Aerated Concrete (NAAC)**, also known as cellular concrete. In this context, "low-rate" refers to production volumes suitable for small construction crews, on-demand applications, or DIY projects, as opposed to large-scale industrial manufacturing.
+This repository contains a collection of open-source equipment designs and building systems for **Non-Autoclaved Aerated Concrete (NAAC)**, also known as cellular concrete, or "aircrete". In this context, "low-rate" refers to production volumes suitable for small construction crews constructing or repairing partes of a single house.
 
-The primary focus is on developing modular, portable, and low-volume mixing equipment. The designs are ideal for "dry bag" operations and robust enough for **rental fleets**. These systems are intended for community-driven development and collaboration.
+The primary focus is on developing modular, portable, and low-volume mixing and pumping equipment. The designs are ideal for "dry bag" mixing operations. To clarify, a "dry bag" mixer performs two critical steps in NAAC production: mixing a Portland cement slurry, and mixing stable foam into that slurry to create NAAC material. This equipment should be robust enough for **rental fleets**. These designs are intended for community-driven development and collaboration.
 
 ---
 
@@ -17,9 +17,9 @@ The following designs are available for use, modification, and further developme
 A modular and lightweight cellular concrete mixer designed for scalability and ease of use.
 
 * **Key Features:**
-    * **Contraflow Mixing System:** Features inner and outer ribbon augers rotating in opposite directions (approx. 60 RPM) to ensure thorough and rapid homogenization of the material.
+    * **Dual Ribbon Auger Mixing System:** Features inner and outer ribbon augers rotating in opposite directions (approx. 60 RPM) to ensure thorough and rapid homogenization of the material.
     * **Clean Mixing Chamber:** The outer auger is equipped with rubber wipers on its flights to keep the mixer walls clean and prevent material buildup.
-    * **Scalable Volume:** The mixing capacity can be easily scaled by adjusting the length of the mixer.
+    * **Scalable Volume:** The mixing capacity can be easily scaled by adjusting the length of the mixer's final dimensions.
     * **Adaptable Power:** Can be adapted to various power transmission systems, with a hydraulic setup recommended for its versatility in powering auxiliary equipment.
 
 ### 2. "RecirC" Mixer
