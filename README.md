@@ -30,7 +30,7 @@ A modular and lightweight cellular concrete mixer designed for scalability and e
  
 * **Recommended Modifications** This design can be easily modified to save costs in two ways: 1.Upper mixer shell can be fabricated as straight sides rather than a curve. This might result in a decrease in mixing effeciency as the can shape forces the material against the auger flights. 2. Transfer pump can be eliminated. This limits the machine's practicality in almost any operational environment but saves cost on the parts required to build the pump. In a small blockmaking setting transfer pumps seem to be seldom used so this might prove to be popular. 
  
-### 2. "RecirC" Mixer (Experimental)
+### 2. "RecirC" Mixer (Experimental-- Plans to be added after further development)
 
 A modular and portable cellular concrete mixer constructed from 10-gauge steel plate and 1/8" angle iron.
 
