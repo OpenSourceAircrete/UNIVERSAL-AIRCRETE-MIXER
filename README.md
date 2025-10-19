@@ -62,6 +62,8 @@ This is a community-driven project, and contributions are highly welcome. You ca
 
 ## License
 
+UAM "Tin Can"/PURPLE (1).jpg
+
 This project is dedicated to the public domain under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**.
 
 You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. For more information, see the [full license text](https://creativecommons.org/publicdomain/zero/1.0/).
