@@ -65,8 +65,8 @@ This is a community-driven project, and contributions are highly welcome. You ca
 ## License
 
 
-This project is dedicated to the public domain under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**.
+This project is dedicated to the public domain under the  CERN-OHL-P
 
-You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. For more information, see the [full license text](https://creativecommons.org/publicdomain/zero/1.0/).
+Full text available here: https://ohwr.org/cern_ohl_p_v2.txt
 
-https://flic.kr/p/2rA8d4Z
+
