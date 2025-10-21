@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a collection of open-source equipment designs to produce **Non-Autoclaved Aerated Concrete (NAAC)**, also known as cellular concrete, or "aircrete". https://www.designingbuildings.co.uk/wiki/Aircrete In this context, "low-rate" refers to production volumes suitable for small construction crews constructing or repairing parts of a single home.
+This repository contains a collection of open-source equipment designs https://drive.google.com/drive/folders/1xJYWbl9uO0n55X_pPfRpA7dwkIisy_Ri?usp=sharing to produce **Non-Autoclaved Aerated Concrete (NAAC)**, also known as cellular concrete, or "aircrete". https://www.designingbuildings.co.uk/wiki/Aircrete In this context, "low-rate" refers to production volumes suitable for small construction crews constructing or repairing parts of a single home.
 
 The primary focus is on developing modular, portable, and low-volume mixing and pumping equipment. The designs are ideal for "dry bag" mixing operations. To clarify, a "dry bag" mixer performs two critical steps in NAAC production: mixing a Portland cement slurry, and mixing stable foam into that slurry to create NAAC material. This equipment should be robust enough for **rental fleets**. These designs are intended for community-driven development and collaboration.
 
