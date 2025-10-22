@@ -6,6 +6,8 @@ https://drive.google.com/drive/folders/1xJYWbl9uO0n55X_pPfRpA7dwkIisy_Ri?usp=sha
 
 This repository contains a collection of open-source equipment designs  to produce **Non-Autoclaved Aerated Concrete (NAAC)**, also known as cellular concrete, or "aircrete". https://www.designingbuildings.co.uk/wiki/Aircrete In this context, "low-rate" refers to production volumes suitable for small construction crews constructing or repairing parts of a single home.
 
+https://drive.google.com/file/d/1AeEmTkNvY5L_jy83lmOk79Zhd6NimoPx/view?usp=drive_link
+
 https://flic.kr/p/2rA8d4Z
 
 https://flic.kr/p/2rAuwqh
