@@ -36,24 +36,6 @@ A modular and lightweight cellular concrete mixer designed for scalability and e
   * **Portable Design:** Engineered for on-site portability and ease of use. Quick assembly and disassembly allows this machine to be loaded and unloaded out of the back of a standard pickup truck with no overhead lifting gear or a forklift. As such it doesn't need to be traillered. This level of portability as it lowers cost and increases access.
  
 * **Recommended Modifications** This design can be easily modified to save costs in two ways: 1.Upper mixer shell can be fabricated as straight sides rather than a curve. This might result in a decrease in mixing effeciency as the can shape forces the material against the auger flights. 2. Transfer pump can be eliminated. This limits the machine's practicality in almost any operational environment but saves cost on the parts required to build the pump. In a small blockmaking setting transfer pumps seem to be seldom used so this might prove to be popular. 
- 
-### 2. "RecirC" Mixer (Experimental-- Plans to be added after further development)
-
-A modular and portable cellular concrete mixer constructed from 10-gauge steel plate and 1/8" angle iron.
-
-* **Key Features:**
-    * **Integrated Material Lift:** Eliminates the need for a separate transfer pump to move the concrete into wall forms, simplifying the on-site workflow.
-    * **Low-Speed Operation:** Operates at approximately 30-60 RPM, an ideal speed for delicate cellular concrete mixtures.
-    * **Portable Design:** Engineered for on-site portability and ease of use.
-
-### 3. "Cloud Inhaler" Dust Reducer
-
-A venturi-based device designed to mitigate airborne dust around concrete mixing equipment.
-
-* **Key Features:**
-    * **Enhanced Safety:** Improves on-site safety and creates a cleaner working environment.
-    * **Simple & Effective:** A straightforward design for easy implementation with existing mixing setups.
-    * **Adaptable:** Engineered for simplicity, making it suitable for use across disparate industries where dust control is a concern.
 
 ---
 
