@@ -31,7 +31,7 @@ A modular and lightweight cellular concrete mixer designed for scalability and e
 
 * **Key Features:**
     * **Ribbon Auger Mixing System:** Features songle ribbon auger (rotating approx. 60 RPM) to ensure thorough and rapid homogenization of the material. The positive recirculating pump assists in mixing effectively lowering the demand on the auger ribbons.
-    * **Integrated Solid Impeller Recirculating and Transfer Pump** A "low shear" transfer pump is needed to lift the fully mixed NAAC 4M. That's the expected height of a single story wall forms.The solid impeller, positive displacement transfer pump is also turning at 40-50 RPMS. If NAAC is required to be pumped to a second story the machine should be set up there. 
+    * **Integrated Solid Impeller Recirculating and Transfer Pump** A "low shear" transfer pump is needed to lift the fully mixed NAAC 4M. That's the expected height of a single story wall forms. The solid impeller, positive displacement transfer pump is also turning at 40-50 RPMS. If NAAC is required to be pumped to a second story the machine should be set up there. 
     * **Clean Mixing Chamber:** The outer auger flight is equipped with rubber wipers on its flights to keep the mixer walls clean and prevent material buildup.
     * **Scalable Volume:** The mixing capacity can be easily scaled by adjusting the length of the mixer's final dimensions.
     * **Adaptable Power:** Can be adapted to various power transmission systems, with a hydraulic setup recommended for its versatility in powering auxiliary equipment and suitability for low RPM operation. 
