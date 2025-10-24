@@ -61,6 +61,8 @@ A venturi-based device designed to mitigate airborne dust around concrete mixing
 
 This is a community-driven project, and contributions are highly welcome. You can help by:
 
+* **Donating to the GoFundMe: https://www.gofundme.com/f/aircrete-is-awesome?lid=wmmfu28o9xfl
+
 * **Reviewing the Designs:** Analyze the existing CAD files and drawings for potential enhancements.
 * **Suggesting Ideas:** Open an **Issue** to propose new features or modifications.
 * **Improving the Designs:** Fork the repository, implement your changes, and submit a **Pull Request**.
