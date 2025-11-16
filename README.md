@@ -1,4 +1,4 @@
-# Open Source aircrete production Equipment
+# Open Source Aircrete Production Equipment
 
 ## Project Overview
 
