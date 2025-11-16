@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1AeEmTkNvY5L_jy83lmOk79Zhd6NimoPx/view?usp=drive
 https://flic.kr/p/2rA8d4Z
 
 https://flic.kr/p/2rAuwqh
-
+![https://flic.kr/p/2rA8d4Z]()
 The primary focus is on developing modular, portable, and low-volume mixing and pumping equipment. The designs are ideal for "dry bag" mixing operations. To clarify, a "dry bag" mixer performs two critical steps in NAAC production: mixing a Portland cement slurry, and mixing stable foam into that slurry to create NAAC material. This equipment should be robust enough for rental fleets. These designs are intended for community-driven development and collaboration.
 
 It is the designer's belief that NAAC is an ideal building material that has been held back by a single barrier to entry: the mixing equipment. Aircrete mixing equipment starts at $750 for a "hand drill mixing system" which is labor intensive. There seems to be no middle ground as the next-cheapest option costs more than $50,000. The UAM "Tin Can" version BOM is estimated to be less than $5,000. The two key design features that allow this is the use of 3mm (10 guage) plate and 1/8" tubing in place of 5mm and 1/4" steel and tubing. The designer proved with the alpha protoype that this lighter material is suitable for mixing an end product with a density of 0.6-0.8 (relative to H2O). Reinforced cement concrete, for reference exhibits a 2.4 density. 
