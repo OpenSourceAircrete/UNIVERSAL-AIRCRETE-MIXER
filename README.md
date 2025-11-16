@@ -1,4 +1,4 @@
-# Open Source Low-Rate Non Autoclaved Aerated Concrete (NAAC) production Equipment
+# Open Source aircrete production Equipment
 
 ## Project Overview
 
