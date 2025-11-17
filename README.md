@@ -12,6 +12,9 @@ This repository contains a collection of open-source equipment designs  to produ
 
 <img width="1506" height="821" alt="Screenshot 2025-11-17 084041" src="https://github.com/user-attachments/assets/852c973a-c751-4803-8294-d0d4cefe7eb0" />
 
+![PURPLE (1)](https://github.com/user-attachments/assets/b2284281-2f55-4880-9e9a-8ecbb529950a)
+
+
 
 The primary focus is on developing modular, portable, and low-volume mixing and pumping equipment. The designs are ideal for "dry bag" mixing operations. To clarify, a "dry bag" mixer performs two critical steps in NAAC production: mixing a Portland cement slurry, and mixing stable foam into that slurry to create NAAC material. This equipment should be robust enough for rental fleets. These designs are intended for community-driven development and collaboration.
 
