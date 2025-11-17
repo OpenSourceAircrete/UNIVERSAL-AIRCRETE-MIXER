@@ -1,0 +1,26 @@
+UAM Operating Instructions
+
+Make sure recirc valve is open then check discharge valve is closed. Add fresh water via the water transfer system by lining up valves correctly and ensure that the required amount of water is in the mixer by checking the “innage line” on the inside of the tank. Turn on the air “fluidizer valve”. That will prevent cement from clogging the sump as you add it. Turn on the dust extraction system. The fresh water 
+
+Add 1 bag of Portland cement. Shouldn’t have to be too careful. Just dump it in. Wait 30 seconds and add another bag of Portland cement. Make sure to document time this step is done. Add any admixture and document that too.
+
+When the cement slurry is well blended start the foam generator by first opening the air valve to the chamber. Open the “foam sample valve” and then line up the valves on the water transfer system to discharge soapy water solution to the foam generator. Stable foam should soon be discharging out of the “foam sample port”. 
+Check the appearance of the foam and weigh it to check density. If too dense open the air supply needle valve on the foam chamber. If not dense enough, close the same valve. When satisfied the foam is the correct weight in the sample container, indicating it’s density, open the “foam discharge valve”, then close the “foam sample valve”  to the mixing vessel and start mixing. 
+
+Watch the innage marks on the “soapy water tank. When the level gets close to the mark, start weighing the mixed aircrete material by collecting samples via the “aicrete sample port”
+
+When the aircrete is the correct density stop the foam generator by turning off the water transfer pump, then shut the water valves, then shut the air going to the foam generator (ball valve).
+
+Have the second operator walk the aircrete transfer hose over to the forms. The machine operator should then open the aircrete transfer valve all the way, then slowly “pinch down” on the recirc valve until the material is flowing out of the transfer hose at the right rate. This continues until the tank is empty of aircrete material. 
+
+When the tank is empty close the recirc valve to 25%. Carefully open “Purge valve 1” a little, with a bucket hanging beneath the pipe fitting. That will let air “bleed out” of the line and some material will flow into the bucket as the pump “picks up” air and material alternating as the mixing vessel and sump are dry. 
+
+By now there is only aircrete in the end of the pump and the discharge pipe. After about 10-15 seconds of this close purge valve 1. 
+
+Quickly open the recirc all the way and then close the discharge all the way. That will trap the material above the discharge valve and avoid “deadheading” the pump (a bad idea for a positive displacement pump…if you deadhead this at the wrong time you will break something probably…for sure the noise will scare you). 
+
+Open up “Purge valve #2”. With the aircrete transfer valve closed the purge air will push against it and force the remaining aircrete up and out of the hose. This last material will have irregular air pockets and should be used in a non critical area. 
+
+Open the “pump drain valve” to get all the material out of the vessel from the lowest point, assisted by the pump. Collect it in a bucket. Document the time the batch was finished dicharging.
+
+Use the water transfer system to put 5-10L into the mixing vessel and recirculate it to clean it out prior to the next batch. When doing this cycle the aircrete discharge valve to prevent material buildup. 
