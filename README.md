@@ -5,6 +5,7 @@
 *Please donate to the GofundMe* https://www.gofundme.com/f/aircrete-is-awesome?lid=wmmfu28o9xfl
 
 This repository contains a collection of open-source equipment designs  to produce **Non-Autoclaved Aerated Concrete (NAAC)**, also known as cellular concrete, or "aircrete". https://www.designingbuildings.co.uk/wiki/Aircrete In this context, "low-rate" refers to production volumes suitable for small construction crews constructing or repairing parts of a single home.
+
 https://www.youtube.com/watch?v=X0UyuegXR7A
 
 https://www.youtube.com/watch?v=29N50LVhtxg&t=277s
