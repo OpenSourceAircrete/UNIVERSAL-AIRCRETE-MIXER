@@ -59,6 +59,8 @@ This is a community-driven project, and contributions are highly welcome. You ca
 
 * **Donating to the GoFundMe: https://www.gofundme.com/f/aircrete-is-awesome?lid=wmmfu28o9xfl
 
+* **Email me at MIKEOLERY100@GMAIL.COM if you want to help in some way. I am working solo on this and could use the help. 
+
 * **Reviewing the Designs:** Analyze the existing CAD files and drawings for potential enhancements.
 * **Suggesting Ideas:** Open an **Issue** to propose new features or modifications.
 * **Improving the Designs:** Fork the repository, implement your changes, and submit a **Pull Request**.
