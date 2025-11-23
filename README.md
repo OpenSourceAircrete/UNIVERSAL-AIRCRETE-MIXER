@@ -15,8 +15,6 @@ https://www.youtube.com/watch?v=29N50LVhtxg&t=277s
 
 <img width="1281" height="798" alt="Screenshot 2025-11-16 085007" src="https://github.com/user-attachments/assets/c97fb3db-0d91-4a21-a598-795a594a346a" />
 
-<img width="1506" height="821" alt="Screenshot 2025-11-17 084041" src="https://github.com/user-attachments/assets/852c973a-c751-4803-8294-d0d4cefe7eb0" />
-
 ![PURPLE (1)](https://github.com/user-attachments/assets/b2284281-2f55-4880-9e9a-8ecbb529950a)
 
 
