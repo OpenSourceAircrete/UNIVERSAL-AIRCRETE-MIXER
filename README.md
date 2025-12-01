@@ -23,6 +23,8 @@ The primary focus is on developing modular, portable, and low-volume mixing and 
 
 It is the designer's belief that NAAC is an ideal residential building material that has been held back by expensive mixing equipment. Ai. There's never been good small contractor grade equipment, with the cheapest good mixers costing $50,000+. The UAM BOM is estimated to be less than $5,000. The two key design features that allow this is the use of 3mm (10 guage) plate and 1/8" tubing in place of 5mm and 1/4" steel and tubing. The designer proved with the alpha protoype that this lighter material is suitable for mixing an end product with a density of 0.6-0.8 (relative to H2O). Reinforced cement concrete, for reference exhibits a 2.4 density. 
 
+*This is exactly what we need the machine to do and an example of the cheapest/best home that can be built.* https://www.youtube.com/watch?v=HfUKHgh9K9g
+
 The mixers have been designed with integrated transfer pumps made from mild steel solid augers. This is a low tech/high capability setup that saves thousands on the BOM. 
 
 A small venturi dust extraction system should shield operators from excessive cement dust. 
