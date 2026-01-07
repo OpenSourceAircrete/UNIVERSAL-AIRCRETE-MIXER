@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=HfUKHgh9K9g
 
 https://youtu.be/HfUKHgh9K9g
 
-https://flic.kr/p/2rQEY1Z
+[url=https://flic.kr/p/2rQEY1Z][img]https://live.stat
 
 <img width="1645" height="757" alt="Screenshot 2025-11-17 083954" src="https://github.com/user-attachments/assets/ab2ff52d-412f-43cb-bdca-46e1ea487a63" />
 
