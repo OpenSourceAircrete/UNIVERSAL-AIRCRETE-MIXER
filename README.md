@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=HfUKHgh9K9g
 
 https://youtu.be/HfUKHgh9K9g
 
-[url=https://flic.kr/p/2rQEY1Z][img]https://live.stat
+[url=https://flic.kr/p/2rQEY1Z][img]https://live.staticflickr.com/65535/55028406249_091fecc333_b.jpg[/img][/url][url=https://flic.kr/p/2rQEY1Z]12 inch newbuild wall design (4)_page-0001[/url] by [url=https://www.flickr.com/photos/203763990@N08/]Michael OLeary[/url], on Flickr
 
 <img width="1645" height="757" alt="Screenshot 2025-11-17 083954" src="https://github.com/user-attachments/assets/ab2ff52d-412f-43cb-bdca-46e1ea487a63" />
 
